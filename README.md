@@ -1,5 +1,3 @@
-# MIT-Earth-Hacks
-
 # Customer Churn Prediction
 
 This project aims to predict customer churn in a banking environment using various machine learning techniques. **By understanding the factors influencing customer churn, we can develop strategies to improve customer retention.**
